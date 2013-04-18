@@ -14,4 +14,4 @@ def gcd(a,b):
         else:
             a=b
             b=r
-    print b
+    return b
